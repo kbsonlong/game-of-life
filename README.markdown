@@ -32,3 +32,4 @@ John is an experienced consultant and trainer specialising in Enterprise Java, W
 
 
 test build
+Twice test build
